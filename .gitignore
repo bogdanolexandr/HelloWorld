@@ -2,6 +2,7 @@
 .settings/
 RemoteSystemsTempFiles/
 target/
+bin/
 /_classpath.xml
 /_project.xml
 
