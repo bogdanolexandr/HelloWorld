@@ -2,6 +2,6 @@
 .settings/
 RemoteSystemsTempFiles/
 target/
-/_classpath
-/_project
+/_classpath.xml
+/_project.xml
 
